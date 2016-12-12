@@ -1,0 +1,7 @@
+*.pyc
+__pychache__
+.DS*
+.
+..
+.ipynb*
+
